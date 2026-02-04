@@ -1,0 +1,23 @@
+{
+  "feature_names": [
+    "Age",
+    "Cholesterol",
+    "BP",
+    "Max HR",
+    "ST depression",
+    "Number of vessels fluro"
+  ],
+  "num_features": 6,
+  "model_type": "logistic_regression",
+  "regularization": "L2",
+  "lambda": 0.0,
+  "train_accuracy": 0.7883597883597884,
+  "test_accuracy": 0.7654320987654321,
+  "train_f1": 0.7500000000000001,
+  "test_f1": 0.7164179104477612,
+  "weight_norm": 1.2162567866283298,
+  "training_params": {
+    "learning_rate": 0.01,
+    "iterations": 1000
+  }
+}
